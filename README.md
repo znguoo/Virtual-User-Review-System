@@ -1,1 +1,1 @@
-# CMPUT291-MiniProjectTwo
+Virtual user review system with Python and MongoDB
